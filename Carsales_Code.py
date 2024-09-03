@@ -17,7 +17,7 @@ from sklearn.linear_model import LinearRegression
 scale = StandardScaler()
 
 #import data from csv file
-d1 = pd.read_csv("C:\\Users\\chrys\\OneDrive\\Υπολογιστής\\MSC\\Μηχανική Μάθηση\Εργασίες\\Chrysis_Vasileios_erg1\\carsales.csv")
+d1 = pd.read_csv("C:\\Downloads\\carsales.csv")
 
 #converitng strings variable into numbers
 d1['Fuel_Type'].replace(['Petrol', 'Diesel','CNG'],
