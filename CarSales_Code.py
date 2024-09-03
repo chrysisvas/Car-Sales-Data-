@@ -86,7 +86,7 @@ plt.grid(True)
 plt.show()
 
 #Ridge Regression
-RidgeModel = RidgeCV(alphas=arange(0.01, 1000, 5), cv=cv) #10000 50
+RidgeModel = RidgeCV(alphas=arange(0.01, 1000, 5), cv=cv) 
 
 #fit the ridge model 
 RidgeModel.fit(x_train, y_train)
