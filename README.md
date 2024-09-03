@@ -18,8 +18,14 @@ How to Use the Code:
 Interpretation of Plots:
 
 •	Linear Regression Plot: A scatter plot is generated displaying the regression predictions. The red line represents the case where predictions would exactly match the actual test values (test_y). Most points lie close to the line y = x, indicating that the linear regression model performs well.
+
+   ![image](https://github.com/user-attachments/assets/80e06739-2abb-4922-81c0-d7f33deffe10)
+
  
 •	Ridge and Lasso Regression Plots: The subsequent plots illustrate how the predictions from Ridge and Lasso regressions closely follow the actual values of the target variable Selling. Both regression models capture the variability in the Selling variable to a satisfactory degree.
+
+   ![image](https://github.com/user-attachments/assets/e4d90cde-d790-4f45-893f-b7e100995402)
+
  	 
 Table of Results:
 
