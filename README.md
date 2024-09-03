@@ -1,4 +1,4 @@
-# Car-Sales-Data-
+# Car_Sales_Data
 Car Sales Dataset Analysis Using Regression Methods
 
 
