@@ -23,7 +23,7 @@ Interpretation of Plots:
  	 
 Table of Results:
 
-The table shows that the Linear Regression model has the highest R² value. Additionally, this model also exhibits the lowest MSE and MAE, making it the most reliable for our analysis.
+The table below shows that the Linear Regression model has the highest R² value. Additionally, this model also exhibits the lowest MSE and MAE, making it the most reliable for our analysis.
 
  ![image](https://github.com/user-attachments/assets/f3f36676-d708-4031-aa7f-ebc1dec2e00f)
 
