@@ -11,7 +11,7 @@ Key Features
 
 How to Use the Code:
 
-1.	Extract the file Carsales-Regression.py.
+1.	Extract the file CarSales_Code.py
 2.	Load the dataset.
 3.	Run the script using any Python environment of your choice.
    
